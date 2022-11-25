@@ -27,7 +27,7 @@ def mode(a):
 # here is the code to test:
 
 # from stats import median,mode,mean 
-a=[1,3,2,6,7,5,9,8,5,4]
+a=[55,31,66,61,74,52,92,85,20,43]
 
 print(median(a))
 print(mean(a))
