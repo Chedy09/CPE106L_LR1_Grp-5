@@ -1,0 +1,5 @@
+# function to find the median of array 
+def median(a):
+    a.sort()
+    n=len(a)
+    mid=int(n/2);
